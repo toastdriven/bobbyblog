@@ -1,0 +1,5 @@
+Setup
+=====
+
+
+* git clone
